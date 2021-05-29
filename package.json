@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Orchais",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "keywords": []
+}
